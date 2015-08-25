@@ -1,0 +1,30 @@
+{
+  "name": "slack_slash_weather",
+  "version": "1.0.0",
+  "description": "Slash Weather Command Server",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jainnitin/slack_slash_weather.git"
+  },
+  "dependencies": {
+    "hapi": "^8.x.x",
+    "request": "^2.x.x"
+  },
+  "keywords": [
+    "stack",
+    "slash",
+    "slash-commands",
+    "weather",
+    "weather-api"
+  ],
+  "author": "Nitin Jain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jainnitin/slack_slash_weather/issues"
+  },
+  "homepage": "https://github.com/jainnitin/slack_slash_weather"
+}
